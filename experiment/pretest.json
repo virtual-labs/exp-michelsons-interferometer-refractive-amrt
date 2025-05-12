@@ -2,37 +2,27 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "When the crest of one wave meets with the trough of another wave,",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Constructive interference occurs",
+        "b": "Destructive interference occurs.",
+        "c": "Interference cannot be happen.",
+        "d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which of the following is true when two waves interfere?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "The total energy will be conserved.",
+        "b": "The total energy will not be conserved.",
+        "c": "The total energy will be conserved only in the case of constructive interference.",
+        "d": "he total energy will be conserved only in the case of destructive interference."
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+     
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
