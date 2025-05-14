@@ -13,7 +13,7 @@ With a laser, the light source is more precisely monochromatic, so the measureme
 $$n=\frac{(2t-N\lambda)(1-\cos\theta)+\frac{N^{2}\lambda^{2}}{4t}}{2t(1-\cos \theta)-N\lambda}............(1)$$
 
 
-where $t$ is the thickness of the plate and %\lambda$ is the wavelength of the laser. The last term in the numerator is often neglected. However, this causes an error that increases with $\lambda$, reaching ~1% at $\lambda = 30A°$, potentially destroying the increased accuracy gained by using a laser light source.
+where $t$ is the thickness of the plate and $\lambda$ is the wavelength of the laser. The last term in the numerator is often neglected. However, this causes an error that increases with $\lambda$, reaching ~1% at $\lambda=30A°$, potentially destroying the increased accuracy gained by using a laser light source.
 
 The above equation can be approximated to get
 
