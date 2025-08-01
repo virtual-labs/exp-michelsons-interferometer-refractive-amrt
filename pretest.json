@@ -1,0 +1,53 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "When the crest of one wave meets with the trough of another wave,",
+      "answers": {
+        "a": "Constructive interference occurs",
+        "b": "Destructive interference occurs.",
+        "c": "Interference cannot be happen.",
+        "d": "None of these"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is true when two waves interfere?",
+      "answers": {
+        "a": "The total energy will be conserved.",
+        "b": "The total energy will not be conserved.",
+        "c": "The total energy will be conserved only in the case of constructive interference.",
+        "d": "he total energy will be conserved only in the case of destructive interference."
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "The distance between consecutive corresponding points of the same phase of a wave is called its",
+      "answers": {
+        "a": "Wavelength",
+        "b": "Frequency",
+        "c": "Wave number",
+        "d": " None of these"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Michelson Interferometer works under the principle of",
+      "answers": {
+        "a": "Diffraction of light",
+        "b": "Polaristion of light",
+        "c": "Interference of light",
+        "d": "None of the above"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }  
+  ]
+}
