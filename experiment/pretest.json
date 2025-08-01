@@ -24,6 +24,30 @@
      
       "correctAnswer": "a",
       "difficulty": "beginner"
-    }
+    },
+     {
+      "question": "The distance between consecutive corresponding points of the same phase of a wave is called its",
+      "answers": {
+        "a": "Wavelength",
+        "b": "Frequency",
+        "c": "Wave number",
+        "d": " None of these"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Michelson Interferometer works under the principle of",
+      "answers": {
+        "a": "Diffraction of light",
+        "b": "Polaristion of light",
+        "c": "Interference of light",
+        "d": "None of the above"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }  
   ]
 }
